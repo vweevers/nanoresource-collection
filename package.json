@@ -1,0 +1,34 @@
+{
+  "name": "nanoresource-collection",
+  "version": "0.0.0",
+  "description": "Open and close multiple nanoresources as one",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && hallmark && nyc node test"
+  },
+  "dependencies": {
+    "catering": "^2.0.0",
+    "maybe-combine-errors": "^1.0.0",
+    "nanoresource": "^1.3.0"
+  },
+  "devDependencies": {
+    "hallmark": "^2.1.0",
+    "nyc": "^15.1.0",
+    "standard": "^14.3.4",
+    "tape": "^5.0.1"
+  },
+  "keywords": [
+    "close",
+    "collection",
+    "nanoresource",
+    "open",
+    "state"
+  ],
+  "repository": "vweevers/nanoresource-collection",
+  "bugs": "https://github.com/vweevers/nanoresource-collection/issues",
+  "homepage": "https://github.com/vweevers/nanoresource-collection",
+  "engines": {
+    "node": ">=10"
+  }
+}
