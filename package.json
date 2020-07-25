@@ -1,6 +1,6 @@
 {
   "name": "nanoresource-collection",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Open and close multiple nanoresources as one",
   "license": "MIT",
   "author": "Vincent Weevers",
